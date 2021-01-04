@@ -18,18 +18,18 @@
     ],
 	[
       "How many points is a touchdown worth?",
-      6,
-      3,
-      2,
-      5,
+      "6",
+      "3",
+      "2",
+      "5",
       1
     ],
     [
       "How many points would you receive for scoring a field goal?",
-      1,
-      2,
-      3,
-      4,
+      "1",
+      "2",
+      "3",
+      "4",
       3
     ],
     [
@@ -74,10 +74,10 @@
     ],
     [
       "Jalen Hurts was the ...SEC Freshman of the Year",
-      2015,
-      2016,
-      2017,
-      2018,
+      "2015",
+      "2016",
+      "2017",
+      "2018",
       2
     ],
     [
@@ -90,10 +90,10 @@
     ],
     [
       "In which year did the Bills win their first AFL championship?",
-      1984,
-      1964,
-      1974,
-      1994,
+      "1984",
+      "1964",
+      "1974",
+      "1994",
       2
     ],
     [
