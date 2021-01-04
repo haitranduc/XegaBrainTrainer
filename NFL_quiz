@@ -1,0 +1,108 @@
+{
+  "arr": [
+    [
+      "which team has won the most NFL championships?",
+      "Buffalo Bills",
+      "Philadelphia Eagles",
+      "Green Bay Packer",
+      "Arizona Cardinals",
+      3
+    ],
+    [
+      "What state are the Green Bay Packers from?",
+      "Wisconsin",
+      "Hawaii",
+      "Wyoming",
+      "California",
+      2
+    ],
+	[
+      "How many points is a touchdown worth?",
+      6,
+      3,
+      2,
+      5,
+      1
+    ],
+    [
+      "How many points would you receive for scoring a field goal?",
+      1,
+      2,
+      3,
+      4,
+      3
+    ],
+    [
+      "Which player receives the ball during a scrimmage?",
+      "Quaterback",
+      "Linebacker",
+      "Wide Receiver",
+      "The Coach",
+      1
+    ],
+	 [
+      "Who is known as ‘The Father of American Football'?",
+      "Walter Brown",
+      "Walter Lamp",
+      "Walter Camp",
+      "Walter Stamp",
+      3
+    ],    
+    [
+      "Who won the Super Bowl in 2019?",
+      "New Englands Patriots",
+      "Oaklands Raider",
+      "New York Giants",
+      "San Francisco 49ers",
+      1
+    ],
+    [
+      "How old is the Super Bowl?",
+      "40 years old",
+      "50 years old",
+      "52 years old",
+      "65 years old",
+      3
+    ],
+      [
+      "what NFL team is Jalon Hurts playing for?",
+      "Philadenphia Eagles",
+      "Oklahoma",
+      "Alabama",
+      "Houston Texans",
+      1
+    ],
+    [
+      "Jalen Hurts was the ...SEC Freshman of the Year",
+      2015,
+      2016,
+      2017,
+      2018,
+      2
+    ],
+    [
+      "The Buffalo Bills were a founding member of what league?",
+      "AFL",
+      "NFL",
+      "CFL",
+      "XFL",
+      1
+    ],
+    [
+      "In which year did the Bills win their first AFL championship?",
+      1984,
+      1964,
+      1974,
+      1994,
+      2
+    ],
+    [
+      "When was the first ever NFL match broadcast on Television?",
+      "October 22nd 1939",
+      "March 15th 1945",
+      "July 12th 1947",
+      "December 2nd 1961",
+      1
+    ]
+  ]
+}
