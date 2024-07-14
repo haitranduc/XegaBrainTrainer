@@ -1,0 +1,17 @@
+{
+  "arr": [
+    ["Which television show did Donald Trump host?", "Survivor", "The Apprentice", "American Idol", "Big Brother", 2],
+    ["What is the name of Donald Trump’s real estate company?", "Trump Enterprises", "Trump Inc.", "The Trump Organization", "Trump Realty", 3],
+    ["Which university did Donald Trump attend for his undergraduate degree?", "Harvard University", "Yale University", "University of Pennsylvania", "Princeton University", 3],
+    ["Which of the following buildings is famously associated with Donald Trump?", "Empire State Building", "Chrysler Building", "Trump Tower", "One World Trade Center", 3],
+    ["Which of Donald Trump’s children served as a senior advisor in his administration?", "Ivanka Trump", "Donald Trump Jr.", "Eric Trump", "Tiffany Trump", 1],
+    ["In which year did Donald Trump first announce his candidacy for President of the United States?", "2008", "2012", "2015", "2018", 3],
+    ["Who was Donald Trump’s running mate in the 2016 Presidential election?", "Mike Pence", "Paul Ryan", "Mitch McConnell", "Lindsey Graham", 1],
+    ["Which amendment of the U.S. Constitution was invoked during the first impeachment trial of Donald Trump?", "First Amendment", "Second Amendment", "Third Amendment", "None of the above", 4],
+    ["What was the name of the book co-written by Donald Trump in 1987?", "The Art of the Deal", "Trump: The Best", "Winning Bigly", "The Power of Positive Thinking", 1],
+    ["In which year did Donald Trump receive a star on the Hollywood Walk of Fame?", "2002", "2005", "2007", "2009", 3],
+    ["What was the primary charge in the first impeachment of Donald Trump?", "Obstruction of Justice", "Abuse of Power", "Bribery", "Treason", 2],
+    ["Which country was at the center of the controversy leading to Donald Trump’s first impeachment?", "Russia", "Ukraine", "China", "North Korea", 2],
+    ["What is the name of Donald Trump’s youngest son?", "Eric Trump", "Donald Trump Jr.", "Barron Trump", "Jared Trump", 3]
+  ]
+}
