@@ -1,0 +1,17 @@
+{
+  "arr": [
+    ["Which operating system is developed by Microsoft?", "Linux", "macOS", "Windows", "Android", 3],
+    ["What is the name of Microsoft's web browser?", "Safari", "Firefox", "Chrome", "Edge", 4],
+    ["Which gaming console is manufactured by Microsoft?", "PlayStation", "Nintendo Switch", "Xbox", "Sega Genesis", 3],
+    ["In which city is Microsoft's headquarters located?", "San Francisco", "Seattle", "Redmond", "Palo Alto", 3],
+    ["What is the name of Microsoft's cloud computing service?", "AWS", "Google Cloud", "Azure", "IBM Cloud", 3],
+    ["Which popular spreadsheet software is part of Microsoft Office?", "Sheets", "Excel", "Numbers", "Calc", 2],
+    ["What was the name of Microsoft's first operating system?", "Windows 1.0", "MS-DOS", "OS/2", "Windows NT", 2],
+    ["Who became the CEO of Microsoft in 2014?", "Bill Gates", "Steve Ballmer", "Satya Nadella", "Tim Cook", 3],
+    ["Which Microsoft product is a relational database management system?", "Access", "Visual Basic", "Outlook", "PowerPoint", 1],
+    ["What was the original code name for Windows 95?", "Chicago", "Detroit", "Boston", "Miami", 1],
+    ["Which Microsoft product is used for project management?", "OneNote", "Project", "Visio", "Teams", 2],
+    ["What programming language was developed by Microsoft for its .NET framework?", "Java", "C++", "C#", "Python", 3],
+    ["In which year did Microsoft acquire LinkedIn?", "2014", "2015", "2016", "2017", 3]
+  ]
+}
