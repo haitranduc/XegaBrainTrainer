@@ -6,7 +6,7 @@
       "Toronto Raptors",
       "Los Angeles Lakers",
       "Miami Heat",
-      2
+      3
     ],
     [
       "What is the name of the annual NBA All-Star weekend event where players compete in various skill competitions?",
@@ -14,7 +14,7 @@
       "NBA Jam",
       "NBA Playoffs",
       "NBA All-Star Weekend",
-      3
+      4
     ],
     [
       "Who is known as the \"King\" and has played for the Cleveland Cavaliers, Miami Heat, and Los Angeles Lakers?",
@@ -22,7 +22,7 @@
       "Kevin Durant",
       "LeBron James",
       "James Harden",
-      2
+      3
     ],
     [
       "Which NBA player is famous for his \"Skyhook\" shot?",
@@ -30,7 +30,7 @@
       "Kareem Abdul-Jabbar",
       "Wilt Chamberlain",
       "Tim Duncan",
-      1
+      2
     ],
     [
       "In which city do the Golden State Warriors play their home games?",
@@ -38,7 +38,7 @@
       "San Francisco",
       "New York",
       "Chicago",
-      1
+      2
     ],
     [
       "Which NBA player was nicknamed \"The Black Mamba\"?",
@@ -46,7 +46,7 @@
       "Dwyane Wade",
       "Kobe Bryant",
       "Allen Iverson",
-      2
+      3
     ],
     [
       "Which team holds the record for the most NBA championships?",
@@ -54,7 +54,7 @@
       "Los Angeles Lakers",
       "Chicago Bulls",
       "San Antonio Spurs",
-      0
+      1
     ],
     [
       "Who was the first player to be drafted directly out of high school to the NBA?",
@@ -62,7 +62,7 @@
       "Kobe Bryant",
       "LeBron James",
       "Moses Malone",
-      3
+      4
     ],
     [
       "Which player is known for his unique free throw shooting style, often called the \"Granny Shot\"?",
@@ -70,7 +70,7 @@
       "Bill Russell",
       "Wilt Chamberlain",
       "Elgin Baylor",
-      0
+      1
     ],
     [
       "Which NBA coach has the most championship wins?",
@@ -78,7 +78,7 @@
       "Pat Riley",
       "Red Auerbach",
       "Gregg Popovich",
-      0
+      1
     ],
     [
       "Which NBA player holds the record for the most points scored in a single game?",
@@ -86,7 +86,7 @@
       "Wilt Chamberlain",
       "Kobe Bryant",
       "Karl Malone",
-      1
+      2
     ],
     [
       "Which U.S. state is home to the most NBA teams?",
@@ -94,7 +94,7 @@
       "Texas",
       "Florida",
       "New York",
-      0
+      1
     ],
     [
       "Who is the NBA's all-time leader in assists?",
@@ -102,7 +102,7 @@
       "Magic Johnson",
       "Jason Kidd",
       "Steve Nash",
-      0
+      1
     ]
   ]
 }
