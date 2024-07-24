@@ -1,0 +1,108 @@
+{
+  "arr": [
+   [
+      "Which team won the NBA Championship in 2020?",
+      "Golden State Warriors",
+      "Toronto Raptors",
+      "Los Angeles Lakers",
+      "Miami Heat",
+      2
+    ],
+    [
+      "What is the name of the annual NBA All-Star weekend event where players compete in various skill competitions?",
+      "NBA Finals",
+      "NBA Jam",
+      "NBA Playoffs",
+      "NBA All-Star Weekend",
+      3
+    ],
+    [
+      "Who is known as the \"King\" and has played for the Cleveland Cavaliers, Miami Heat, and Los Angeles Lakers?",
+      "Stephen Curry",
+      "Kevin Durant",
+      "LeBron James",
+      "James Harden",
+      2
+    ],
+    [
+      "Which NBA player is famous for his \"Skyhook\" shot?",
+      "Shaquille O'Neal",
+      "Kareem Abdul-Jabbar",
+      "Wilt Chamberlain",
+      "Tim Duncan",
+      1
+    ],
+    [
+      "In which city do the Golden State Warriors play their home games?",
+      "Los Angeles",
+      "San Francisco",
+      "New York",
+      "Chicago",
+      1
+    ],
+    [
+      "Which NBA player was nicknamed \"The Black Mamba\"?",
+      "Kevin Garnett",
+      "Dwyane Wade",
+      "Kobe Bryant",
+      "Allen Iverson",
+      2
+    ],
+    [
+      "Which team holds the record for the most NBA championships?",
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Chicago Bulls",
+      "San Antonio Spurs",
+      0
+    ],
+    [
+      "Who was the first player to be drafted directly out of high school to the NBA?",
+      "Kevin Garnett",
+      "Kobe Bryant",
+      "LeBron James",
+      "Moses Malone",
+      3
+    ],
+    [
+      "Which player is known for his unique free throw shooting style, often called the \"Granny Shot\"?",
+      "Rick Barry",
+      "Bill Russell",
+      "Wilt Chamberlain",
+      "Elgin Baylor",
+      0
+    ],
+    [
+      "Which NBA coach has the most championship wins?",
+      "Phil Jackson",
+      "Pat Riley",
+      "Red Auerbach",
+      "Gregg Popovich",
+      0
+    ],
+    [
+      "Which NBA player holds the record for the most points scored in a single game?",
+      "Michael Jordan",
+      "Wilt Chamberlain",
+      "Kobe Bryant",
+      "Karl Malone",
+      1
+    ],
+    [
+      "Which U.S. state is home to the most NBA teams?",
+      "California",
+      "Texas",
+      "Florida",
+      "New York",
+      0
+    ],
+    [
+      "Who is the NBA's all-time leader in assists?",
+      "John Stockton",
+      "Magic Johnson",
+      "Jason Kidd",
+      "Steve Nash",
+      0
+    ]
+  ]
+}
