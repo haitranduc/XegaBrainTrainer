@@ -1,0 +1,108 @@
+{
+  "arr": [
+    [
+      "Which Taylor Swift album features the hit song 'Love Story'?",
+      "Taylor Swift",
+      "Fearless",
+      "Speak Now",
+      "Red",
+      2
+    ],
+    [
+      "For which album did Taylor Swift win her first Grammy Award for Album of the Year?",
+      "Fearless",
+      "Red",
+      "1989",
+      "Reputation",
+      1
+    ],
+    [
+      "Which song was Taylor Swift's first Billboard Hot 100 number-one single?",
+      "We Are Never Ever Getting Back Together",
+      "Shake It Off",
+      "Love Story",
+      "Blank Space",
+      4
+    ],
+    [
+      "What is the name of Taylor Swift's documentary released on Netflix in 2020?",
+      "The Long Pond Studio Sessions",
+      "Miss Americana",
+      "Reputation Stadium Tour",
+      "Folklore: The Long Pond Studio Sessions",
+      2
+    ],
+    [
+      "Which of these albums is not by Taylor Swift?",
+      "Evermore",
+      "1989",
+      "Lemonade",
+      "Lover",
+      3
+    ],
+    [
+      "Which Taylor Swift song's music video features her crashing a wedding?",
+      "Red",
+      "Speak Now",
+      "Love Story",
+      "Teardrops on My Guitar",
+      2
+    ],
+    [
+      "What is the title of Taylor Swift's first re-recorded album released in 2021?",
+      "Fearless (Taylor's Version)",
+      "Red (Taylor's Version)",
+      "1989 (Taylor's Version)",
+      "Speak Now (Taylor's Version)",
+      1
+    ],
+    [
+      "Which song did Taylor Swift write about her high school crush?",
+      "Teardrops on My Guitar",
+      "Fifteen",
+      "You Belong With Me",
+      "Mean",
+      3
+    ],
+    [
+      "Which city was Taylor Swift born in?",
+      "Los Angeles",
+      "New York",
+      "Nashville",
+      "Reading",
+      4
+    ],
+    [
+      "What instrument did Taylor Swift learn to play first?",
+      "Drums",
+      "Guitar",
+      "Piano",
+      "Violin",
+      2
+    ],
+    [
+      "Which Taylor Swift album features the song 'Bad Blood'?",
+      "Fearless",
+      "Red",
+      "1989",
+      "Lover",
+      3
+    ],
+    [
+      "Which Taylor Swift song was inspired by her relationship with actor Jake Gyllenhaal?",
+      "Style",
+      "All Too Well",
+      "Back to December",
+      "Wildest Dreams",
+      2
+    ],
+    [
+      "Which of these is the name of Taylor Swift's cat?",
+      "Bella",
+      "Luna",
+      "Olivia",
+      "Nala",
+      3
+    ]
+  ]
+}
