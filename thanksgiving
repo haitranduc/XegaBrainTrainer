@@ -1,0 +1,16 @@
+{
+  "arr": [   
+    ["Which U.S. President declared Thanksgiving a national holiday?", "George Washington", "Thomas Jefferson", "John Adams", "Abraham Lincoln", 4],
+    ["What is the name of the horn-shaped basket often seen as a symbol of Thanksgiving?", "Harvest Bowl", "Cornucopia", "Autumn Basket", "Gratitude Bowl", 2],
+    ["What year was the first Macy's Thanksgiving Day Parade held?", "1920", "1922", "1924", "1926", 3],
+    ["Which part of the turkey is used in a traditional 'wishbone' game?", "Wing", "Drumstick", "Neck", "Breastbone", 4],
+    ["Which dessert is most commonly associated with Thanksgiving?", "Pumpkin Pie", "Apple Pie", "Pecan Pie", "Cheesecake", 1],
+    ["Which state raises the most turkeys in the United States?", "California", "Minnesota", "Texas", "North Carolina", 2],
+    ["What is the name of the ship that brought the Pilgrims to America?", "The Nina", "The Mayflower", "The Santa Maria", "The Pinta", 2],
+    ["What is the traditional Native American name for Thanksgiving?", "Harvest Festival", "Green Corn Dance", "Giving Thanks Day", "Autumn Feast", 2],
+    ["What famous Thanksgiving event involves the pardoning of a turkey?", "Turkey Parade", "Presidential Turkey Pardon", "Thanksgiving Blessing", "Turkey Feast Ceremony", 2],
+    ["In which year did the first Thanksgiving take place?", "1618", "1621", "1625", "1630", 2],
+    ["What was served at the first Thanksgiving meal?", "Turkey", "Venison", "Pumpkin Pie", "Cornbread", 2],
+    ["Which U.S. state was the first to make Thanksgiving an annual holiday?", "New York", "Virginia", "Massachusetts", "New Hampshire", 3]
+  ]
+}
