@@ -1,7 +1,5 @@
 {
   "arr": [
-    ["When is the US Open Tennis Championship traditionally held?", "August-September", "June-July", "April-May", "October-November", 1],
-    ["On what type of court surface is the US Open currently played?", "Grass", "Clay", "Hard", "Carpet", 3],
     ["Where is the US Open held each year?", "Los Angeles", "New York City", "Chicago", "Miami", 2],
     ["What is the name of the main stadium of the US Open?", "Centre Court", "Arthur Ashe Stadium", "Louis Armstrong Stadium", "Billie Jean King Arena", 2],
     ["Who was the first man to win the US Open in the Open Era (1968)?", "Rod Laver", "Jimmy Connors", "Arthur Ashe", "Ken Rosewall", 3],
